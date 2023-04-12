@@ -1,0 +1,38 @@
+body{
+    background-color: #d5e0ee;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.card{
+    background-color: #fff;
+    border-radius: 5%;
+    width: 300px;
+    height: 510px;
+    margin-top: 12px;
+   
+
+}
+h1{
+    margin-left: 10px;
+}
+
+p{
+    font-size: 15px;
+    font-weight: 400;
+    text-align: center;
+    margin-left: 10px;
+}
+
+  img{
+    height: 275px;
+    width: 280px;
+    border-radius: 8%;
+    margin-left: 10px;
+    margin-top: 10px;
+
+
+  }
+	
